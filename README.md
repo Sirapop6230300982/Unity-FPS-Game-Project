@@ -8,7 +8,7 @@ This is my Unity Game project based on the tutorial of youtuber name "Jimmy Vega
 
 ## Credit
 ##### Jimmy Vegas
-![alt text](https://www.youtube.com/watch?v=5-RBAig7ubg&list=PLZ1b66Z1KFKh51c-tMSxc3ozDsAOLWyhC&ab_channel=JimmyVegas)
+https://www.youtube.com/watch?v=5-RBAig7ubg&list=PLZ1b66Z1KFKh51c-tMSxc3ozDsAOLWyhC&ab_channel=JimmyVegas
 
 
 
